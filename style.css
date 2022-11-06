@@ -34,6 +34,7 @@ main {
     width: 320px;
     border-radius: 1rem;
     padding: 1rem;
+    box-shadow: hsla(217, 45%, 22%, 0.15) 0px 10px 15px;
     background-color: var(--White);
 }
 
@@ -45,14 +46,14 @@ main {
 .card-title {
     margin: 1rem 0;
     padding: 0 .5rem;
-    font-size: 24px;
+    font-size: 22px;
     color: var(--Dark-blue);
     font-weight: var(--font-wb);
 }
 .card-desc {
     margin: 1rem 0;
     padding: 0 .5rem;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: var(--font-wn);
     color: var(--Grayish-blue);
 }
